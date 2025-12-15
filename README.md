@@ -1,6 +1,6 @@
 # 📁 Portfólio — Data Analytics & Machine Learning
 
-Este repositório reúne projetos desenvolvidos com foco em **Analytics**, **Visualização de Dados** e **Machine Learning**, utilizando dados mascarados ou públicos para fins de portfólio profissional.
+Este repositório reúne projetos desenvolvidos com foco em **Analytics**, **Visualização de Dados** e **Machine Learning** para fins de portfólio profissional.
 
 ---
 
