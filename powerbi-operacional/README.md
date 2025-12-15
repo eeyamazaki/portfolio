@@ -78,6 +78,8 @@ Avaliar se as equipes estão **adequadamente dimensionadas**, considerando carga
 
 ### 📊 Gráfico Principal — Carga vs Eficiência
 
+![Dimensionamento de equipes — carga vs eficiência](./images/dimensionamento-equipes.png)
+
 Cada ponto do gráfico representa **uma equipe** no período selecionado.
 
 - **Eixo X:** Quantidade média de serviços por equipe (carga)
