@@ -90,10 +90,7 @@ Linhas de referência indicam as **metas operacionais**, dividindo o gráfico em
 
 #### 🧠 Leitura dos Quadrantes
 
-- **Superior esquerdo:** Equipes eficientes, porém subutilizadas  
-- **Superior direito:** Equipes eficientes e bem dimensionadas  
-- **Inferior esquerdo:** Equipes com baixa carga e baixa eficiência  
-- **Inferior direito:** Equipes sobrecarregadas e com baixa eficiência  
+![Ajuda de leitura do gráfico de dimensionamento](./images/ajuda-leitura-grafico.png)
 
 📌 **Uso prático:**  
 Esse gráfico permite identificar rapidamente onde ajustes de alocação, redistribuição ou reforço de equipes podem ser necessários.
