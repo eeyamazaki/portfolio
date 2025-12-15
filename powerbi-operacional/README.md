@@ -1,10 +1,7 @@
 # 📊 Power BI — Análise Operacional e Dimensionamento de Equipes
 
-🚀 **Dashboard Interativo (Power BI)**  
+**Dashboard Interativo (Power BI)**  
 👉 [Abrir no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYmZlYzg1NGEtYTk3NS00N2I1LTk3YzItODVjNTEwYWRjMjM0IiwidCI6IjJjMjdhMzQ3LTcwMGQtNGY2OS1iMzhjLTUyMDJiOTk1N2YxOCJ9)
-
-[![Preview do Dashboard](./images/visao-geral-servicos.png)](https://app.powerbi.com/view?r=eyJrIjoiYmZlYzg1NGEtYTk3NS00N2I1LTk3YzItODVjNTEwYWRjMjM0IiwidCI6IjJjMjdhMzQ3LTcwMGQtNGY2OS1iMzhjLTUyMDJiOTk1N2YxOCJ9)
-
 
 Este projeto apresenta um **dashboard interativo desenvolvido em Power BI** com foco na **análise operacional de serviços** e no **dimensionamento de equipes**, utilizando dados mascarados para fins de portfólio.
 
