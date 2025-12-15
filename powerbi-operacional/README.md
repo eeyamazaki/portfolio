@@ -1,81 +1,117 @@
-# 📊 Análise Operacional de Serviços & Dimensionamento de Equipes
+# 📊 Power BI — Análise Operacional e Dimensionamento de Equipes
 
-Este projeto apresenta um **dashboard interativo em Power BI** desenvolvido com foco em **análise operacional**, **eficiência de execução** e **dimensionamento de equipes**, utilizando dados mascarados para fins de portfólio.
+Este projeto apresenta um **dashboard interativo desenvolvido em Power BI** com foco na **análise operacional de serviços** e no **dimensionamento de equipes**, utilizando dados mascarados para fins de portfólio.
 
-O objetivo é demonstrar como indicadores e visualizações podem apoiar **tomada de decisão gerencial**, identificação de gargalos operacionais e avaliação de desempenho de equipes ao longo do tempo.
-
----
-
-## 🔎 Visão Geral do Projeto
-
-O dashboard foi estruturado em duas páginas principais:
-
-### 1️⃣ Visão Geral dos Serviços
-- Volume total de serviços
-- Serviços executados vs não executados
-- Taxa de execução
-- Distribuição por grupo de serviço
-- Distribuição por tempo de execução
-- Evolução temporal da taxa de execução vs meta
-
-### 2️⃣ Dimensionamento de Equipes
-- Análise de carga operacional vs eficiência
-- Identificação de equipes subdimensionadas ou sobrecarregadas
-- KPIs de apoio:
-  - Equipes ativas
-  - Serviços finalizados
-  - Média de serviços por equipe
-  - Percentual de equipes abaixo da meta
-- Metas visuais e ajuda contextual para leitura do gráfico
+O objetivo é demonstrar como métricas bem definidas e visualizações adequadas podem apoiar decisões relacionadas a **eficiência**, **alocação de recursos** e **priorização operacional**.
 
 ---
 
-## 📈 Principais Insights Possíveis
+## 🧭 Como este dashboard deve ser utilizado
 
-- Identificação de desequilíbrio na distribuição de carga entre equipes
-- Monitoramento da eficiência operacional ao longo do tempo
-- Avaliação do impacto do volume de serviços na taxa de execução
-- Apoio à decisão sobre redistribuição ou redimensionamento de equipes
+Este dashboard foi pensado para responder perguntas como:
+
+- Estamos executando os serviços planejados?
+- A taxa de execução está dentro do esperado?
+- As equipes estão bem dimensionadas?
+- Existem equipes sobrecarregadas ou subutilizadas?
+- Em quais períodos o desempenho foi pior?
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+## 📄 Estrutura do Dashboard
 
-- **Power BI Desktop**
-- **DAX** para criação de medidas e KPIs
-- **Power Query** para tratamento e mascaramento dos dados
-- **GitHub** para versionamento e apresentação do portfólio
+O dashboard é composto por **duas páginas principais**, cada uma com um objetivo claro.
+
+---
+
+## 1️⃣ Visão Geral dos Serviços
+
+### 🎯 Objetivo
+Fornecer uma visão consolidada do desempenho operacional ao longo do tempo.
+
+---
+
+### 📌 Principais Métricas
+
+| Métrica | Descrição |
+|------|---------|
+| **Serviços Finalizados** | Total de serviços concluídos no período selecionado |
+| **Serviços Executados** | Quantidade de serviços efetivamente executados |
+| **Taxa de Execução (%)** | Relação entre serviços executados e finalizados |
+| **Meta de Execução** | Valor de referência utilizado para avaliar desempenho |
+
+---
+
+### 📈 Principais Análises
+
+- Evolução temporal da taxa de execução
+- Comparação entre execução real e meta
+- Distribuição de serviços por tipo
+- Identificação de períodos com queda de desempenho
+
+📌 **Como interpretar:**  
+Quando a linha de execução permanece abaixo da meta, há indícios de gargalos operacionais, atrasos ou limitação de recursos.
+
+---
+
+## 2️⃣ Dimensionamento de Equipes
+
+### 🎯 Objetivo
+Avaliar se as equipes estão **adequadamente dimensionadas**, considerando carga de trabalho e eficiência.
+
+---
+
+### 📌 KPIs de Apoio
+
+| KPI | Significado |
+|----|------------|
+| **Equipes Ativas** | Número de equipes operando no período |
+| **Serviços Finalizados** | Volume total de serviços |
+| **Serviços por Equipe** | Média de serviços atribuídos por equipe |
+| **% Equipes Abaixo da Meta** | Proporção de equipes com desempenho inferior ao esperado |
+
+---
+
+### 📊 Gráfico Principal — Carga vs Eficiência
+
+Cada ponto do gráfico representa **uma equipe** no período selecionado.
+
+- **Eixo X:** Quantidade média de serviços por equipe (carga)
+- **Eixo Y:** Taxa de execução (eficiência)
+- **Tamanho da bolha:** Volume total de serviços
+
+Linhas de referência indicam as **metas operacionais**, dividindo o gráfico em quadrantes.
+
+#### 🧠 Leitura dos Quadrantes
+
+- **Superior esquerdo:** Equipes eficientes, porém subutilizadas  
+- **Superior direito:** Equipes eficientes e bem dimensionadas  
+- **Inferior esquerdo:** Equipes com baixa carga e baixa eficiência  
+- **Inferior direito:** Equipes sobrecarregadas e com baixa eficiência  
+
+📌 **Uso prático:**  
+Esse gráfico permite identificar rapidamente onde ajustes de alocação, redistribuição ou reforço de equipes podem ser necessários.
 
 ---
 
 ## 🔐 Sobre os Dados
 
-- O projeto **não utiliza dados sensíveis ou confidenciais**
+- Dados totalmente **mascarados e anonimizados**
+- Nomes de equipes, serviços, contratos e localidades foram substituídos
+- Nenhuma informação sensível ou confidencial foi utilizada
 
 ---
 
-## 🌐 Acesse o Dashboard Online
+## 🌐 Acesse o Dashboard Interativo
 
-👉 **[Clique aqui para visualizar o dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiYmZlYzg1NGEtYTk3NS00N2I1LTk3YzItODVjNTEwYWRjMjM0IiwidCI6IjJjMjdhMzQ3LTcwMGQtNGY2OS1iMzhjLTUyMDJiOTk1N2YxOCJ9)**
+👉 **[Clique aqui para abrir o dashboard no Power BI](COLE_AQUI_O_LINK_PUBLICO)**
 
-> Recomenda-se abrir em tela cheia para melhor experiência.
+> Recomenda-se visualizar em tela cheia para melhor experiência.
 
 ---
 
 ## 👤 Autor
 
 **Erick Eiji Yamazaki**  
-Analista de Dados | Analytics & BI  
-
-- GitHub: https://github.com/eeyamazaki  
-- LinkedIn: *(https://www.linkedin.com/in/erick-yamazaki/)*
-
----
-
-## 🚀 Próximos Passos (Roadmap)
-
-- Drill-through por equipe
-- Página dedicada a SLA e tempo de execução
-- Indicadores de retrabalho e reincidência
-- Evolução histórica de dimensionamento
+Data Analytics | BI | Machine Learning  
 
