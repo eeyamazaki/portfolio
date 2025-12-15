@@ -110,7 +110,7 @@ Esse gráfico permite identificar rapidamente onde ajustes de alocação, redist
 
 ## 🌐 Acesse o Dashboard Interativo
 
-👉 **[Clique aqui para abrir o dashboard no Power BI](COLE_AQUI_O_LINK_PUBLICO)**
+👉 **[Clique aqui para abrir o dashboard no Power BI]((https://app.powerbi.com/view?r=eyJrIjoiYmZlYzg1NGEtYTk3NS00N2I1LTk3YzItODVjNTEwYWRjMjM0IiwidCI6IjJjMjdhMzQ3LTcwMGQtNGY2OS1iMzhjLTUyMDJiOTk1N2YxOCJ9))**
 
 > Recomenda-se visualizar em tela cheia para melhor experiência.
 
