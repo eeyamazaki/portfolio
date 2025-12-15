@@ -1,7 +1,7 @@
 # 📊 Power BI — Análise Operacional e Dimensionamento de Equipes
 
 **Dashboard Interativo (Power BI)**  
-👉 [Abrir no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYmZlYzg1NGEtYTk3NS00N2I1LTk3YzItODVjNTEwYWRjMjM0IiwidCI6IjJjMjdhMzQ3LTcwMGQtNGY2OS1iMzhjLTUyMDJiOTk1N2YxOCJ9)
+👉 [Abrir no Power BI (abre em nova página)](https://app.powerbi.com/view?r=eyJrIjoiYmZlYzg1NGEtYTk3NS00N2I1LTk3YzItODVjNTEwYWRjMjM0IiwidCI6IjJjMjdhMzQ3LTcwMGQtNGY2OS1iMzhjLTUyMDJiOTk1N2YxOCJ9)
 
 Este projeto apresenta um **dashboard interativo desenvolvido em Power BI** com foco na **análise operacional de serviços** e no **dimensionamento de equipes**, utilizando dados mascarados para fins de portfólio.
 
@@ -110,7 +110,7 @@ Esse gráfico permite identificar rapidamente onde ajustes de alocação, redist
 
 ## 🌐 Acesse o Dashboard Interativo
 
-👉 **[Clique aqui para abrir o dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYmZlYzg1NGEtYTk3NS00N2I1LTk3YzItODVjNTEwYWRjMjM0IiwidCI6IjJjMjdhMzQ3LTcwMGQtNGY2OS1iMzhjLTUyMDJiOTk1N2YxOCJ9)**
+👉 **[Abrir no Power BI (abre em nova página)](https://app.powerbi.com/view?r=eyJrIjoiYmZlYzg1NGEtYTk3NS00N2I1LTk3YzItODVjNTEwYWRjMjM0IiwidCI6IjJjMjdhMzQ3LTcwMGQtNGY2OS1iMzhjLTUyMDJiOTk1N2YxOCJ9)**
 
 > Recomenda-se visualizar em tela cheia para melhor experiência.
 
