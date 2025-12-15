@@ -21,6 +21,7 @@ Este dashboard foi pensado para responder perguntas como:
 ## 📄 Estrutura do Dashboard
 
 O dashboard é composto por **duas páginas principais**, cada uma com um objetivo claro.
+
 ![Visão geral do dashboard](./images/visao-geral-servicos.png)
 
 ---
@@ -29,6 +30,8 @@ O dashboard é composto por **duas páginas principais**, cada uma com um objeti
 
 ### 🎯 Objetivo
 Fornecer uma visão consolidada do desempenho operacional ao longo do tempo.
+
+![Evolução da taxa de execução](./images/serie-temporal-execucao.png)
 
 ---
 
