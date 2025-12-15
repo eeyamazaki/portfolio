@@ -3,6 +3,8 @@
 **Dashboard Interativo (Power BI)**  
 👉 [Abrir no Power BI (abre em nova página)](https://app.powerbi.com/view?r=eyJrIjoiYmZlYzg1NGEtYTk3NS00N2I1LTk3YzItODVjNTEwYWRjMjM0IiwidCI6IjJjMjdhMzQ3LTcwMGQtNGY2OS1iMzhjLTUyMDJiOTk1N2YxOCJ9)
 
+> Recomenda-se abrir em uma nova página para acompanhar este guia.
+
 Este projeto apresenta um **dashboard interativo desenvolvido em Power BI** com foco na **análise operacional de serviços** e no **dimensionamento de equipes**, utilizando dados mascarados para fins de portfólio.
 
 O objetivo é demonstrar como métricas bem definidas e visualizações adequadas podem apoiar decisões relacionadas a **eficiência**, **alocação de recursos** e **priorização operacional**.
